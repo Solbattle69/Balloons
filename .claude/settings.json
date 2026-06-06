@@ -1,0 +1,6 @@
+{
+  "skillOverrides": {
+    "caveman": "on",
+    "auto-truncate": "on"
+  }
+}
